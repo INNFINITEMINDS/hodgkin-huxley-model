@@ -6,3 +6,6 @@ The [Hodgkin Huxley model](https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_
 1. `freqvscurrent` - plots the firing rate of Action potentials vs the current. Calculates three current thresholds that mark a dyanmic change in behaviour and plots them on to the graph.
 
 2. `hhcell` - plots voltage, gating variables and conductances against time for a specified current input.
+
+#
+_Done as a part of the course [Computational Neuroscience](https://nptel.ac.in/courses/102106023/)_
